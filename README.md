@@ -16,3 +16,5 @@ Enter your CLIENT ACCESS TOKEN of Dialogflow (given where you have to put in the
 Install RPi.GPIO library in Raspberry Pi.
 
 Install speech_recognition library in Raspberry Pi.
+# Created and managed by ADITYA SURANA
+ Thanks to google
