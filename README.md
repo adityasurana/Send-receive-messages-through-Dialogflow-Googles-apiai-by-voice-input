@@ -10,6 +10,9 @@ Connect Raspberry Pi with mic.
 
 Enter your CLIENT ACCESS TOKEN of Dialogflow (given where you have to put in the code).
 
+In above code will start to run when the raspberry pi recieves high input in GPIO(23). 
+You can change input as you want by changing GPIO input.
+
 
 # Prerequisites
 
